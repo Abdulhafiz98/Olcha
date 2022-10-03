@@ -34,6 +34,7 @@ public class Product extends Base {
     public void setSaleState(boolean saleState) {
         this.saleState = saleState;
     }
+    // hello how are you doing
 
     public int getQuantity() {
         return quantity;
